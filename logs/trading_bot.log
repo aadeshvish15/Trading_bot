@@ -1,0 +1,31 @@
+2026-02-28 16:15:20,352 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-28 16:15:21,909 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 16:16:53,286 - INFO - Placing LIMIT order: BTCUSDT SELL 0.001 @ 30000.0
+2026-02-28 16:16:55,088 - ERROR - Limit order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 17:17:26,443 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-28 17:17:27,522 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 17:21:55,390 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-28 17:21:56,626 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 17:51:34,847 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-28 17:51:36,095 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 19:09:28,114 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-28 19:09:29,590 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 19:10:07,089 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-28 19:10:08,085 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-02-28 21:15:52,820 - INFO - placing market order BTCUSDT BUY 0.001
+2026-02-28 21:28:36,572 - INFO - placing market order BTCUSDT BUY 0.001
+2026-02-28 21:35:05,511 - INFO - placing market order BTCUSDT BUY 0.001
+2026-02-28 21:35:35,212 - INFO - placing limit order BTCUSDT SELL 0.004 @ 30000.0
+2026-02-28 21:35:53,591 - INFO - placing limit order BTCUSDT SELL 0.004 @ 30000.0
+2026-02-28 21:36:18,397 - INFO - placing limit order BTCUSDT SELL 0.004 @ 61417.56
+2026-02-28 21:37:40,970 - INFO - placing market order BTCUSDT BUY 0.01
+2026-02-28 21:37:41,554 - INFO - market response: {'orderId': 12563570908, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJefb086f86feca1e1b4e9d9', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1772294861668}
+2026-02-28 21:43:00,819 - INFO - placing market order BTCUSDT SELL 0.005
+2026-02-28 21:43:01,354 - INFO - market response: {'orderId': 12563582994, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ49a10fa74d447893054762', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.005', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1772295181502}
+2026-02-28 21:43:17,811 - INFO - placing limit order BTCUSDT SELL 0.004 @ 30000.0
+2026-02-28 21:43:45,468 - INFO - placing limit order BTCUSDT SELL 0.004 @ 62000.0
+2026-02-28 21:43:46,035 - INFO - limit response: {'orderId': 12563585486, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3df348f511737f29251f94', 'price': '62000.00', 'avgPrice': '0.00', 'origQty': '0.004', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1772295226164}
+2026-02-28 21:44:26,650 - INFO - placing limit order ETHUSDT BUY 110.0 @ 1800.0
+2026-02-28 21:44:41,157 - INFO - placing limit order ETHUSDT BUY 110.0 @ 18000.0
+2026-02-28 21:45:00,522 - INFO - placing limit order ETHUSDT BUY 110.0 @ 1900.0
+2026-02-28 21:45:31,968 - INFO - cancel request BTCUSDT 12563585486 None
