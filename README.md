@@ -73,8 +73,7 @@ pip install -r requirements.txt
 - From the project root you can run the simple example scripts:
 
 ```bash
-python aa.py
-python cli.py
+ python cli.py
 ```
 
 - These scripts are lightweight examples that import and exercise parts of the `bot` package. If you need a different entrypoint, inspect files in the `bot/` package.
